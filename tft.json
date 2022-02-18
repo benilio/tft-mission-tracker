@@ -1,0 +1,222 @@
+[
+  {
+    "title": "Comece a Festa do Progresso",
+    "mission_one": {
+      "text": "Jogue uma partida de Teamfight Tactics: Noites de Neon!",
+      "progress": "0/1"
+    },
+    "mission_two": {
+      "text": "empty",
+      "progress": "0/0"
+    }
+  },
+  {
+    "title": "\"Comemoração\" da Subferia",
+    "mission_one": {
+      "text": "Atordoe 150 inimigos em combates PvP.",
+      "progress": "0/150"
+    },
+    "mission_two": {
+      "text": "Use o Manto da Imobilidade para aumentar o custo de Mana dos inimigos em 50 ou mais.",
+      "progress": "0/1"
+    }
+  },
+  {
+    "title": "A ciência foi longe demais?",
+    "mission_one": {
+      "text": "Use Silco para fortalecer ou conceder Mana para 50 aliados.",
+      "progress": "0/50"
+    },
+    "mission_two": {
+      "text": "Coloque em campo um campeão equipado com o Emblema do Mutante e a característica Mutante ativa.",
+      "progress": "0/1"
+    }
+  },
+  {
+    "title": "Alta sociedade em lugares suspeitos",
+    "mission_one": {
+      "text": "Coloque em campo uma Renata Glasc 2 Estrelas com as características Quimtec e Intelectual ativas.",
+      "progress": "0/1"
+    },
+    "mission_two": {
+      "text": "Coloque em campo um VIP 3 Estrelas com a característica Galante ativa.",
+      "progress": "0/1"
+    }
+  },
+  {
+    "title": "Artilharia excessiva",
+    "mission_one": {
+      "text": "Coloque em Campo um Campeão equipado com Gume do Infinito e Manopla Adornada.",
+      "progress": "0/1"
+    },
+    "mission_two": {
+      "text": "Coloque em campo um Campeão com 300+ de DdA.",
+      "progress": "0/1"
+    }
+  },
+  {
+    "title": "Brinde ao progresso",
+    "mission_one": {
+      "text": "Jogue 3 partidas de TFT.",
+      "progress": "0/3"
+    },
+    "mission_two": {
+      "text": "empty",
+      "progress": "0/0"
+    }
+  },
+  {
+    "title": "Comemore a engenhosidade",
+    "mission_one": {
+      "text": "Coloque em campo 4+ Hextecs ou equipe uma Pistola Laminar Hextec.",
+      "progress": "0/3"
+    },
+    "mission_two": {
+      "text": "empty",
+      "progress": "0/0"
+    }
+  },
+  {
+    "title": "Compareça à festa",
+    "mission_one": {
+      "text": "Coloque em campo 9 unidades ou mais.",
+      "progress": "0/1"
+    },
+    "mission_two": {
+      "text": "empty",
+      "progress": "0/0"
+    }
+  },
+  {
+    "title": "Crime e punição",
+    "mission_one": {
+      "text": "Faça Ahri disparar 5 orbes em uma única conjuração.",
+      "progress": "0/1"
+    },
+    "mission_two": {
+      "text": "Coloque em campo 2+ Defensores juntamente com um Campeão com Zéfiro.",
+      "progress": "0/1"
+    }
+  },
+  {
+    "title": "Defensores do amanhã",
+    "mission_one": {
+      "text": "Use Guarda-costas ou Portal de Zz'rot para provocar 50 inimigos em combates PvP.",
+      "progress": "0/50"
+    },
+    "mission_two": {
+      "text": "Coloque em campo um Campeão equipado com Colete Espinhoso e Garra do Dragão.",
+      "progress": "0/1"
+    }
+  },
+  {
+    "title": "Desafio: acabar com a festa",
+    "mission_one": {
+      "text": "Atrapalhe as comemorações colocando em campo um Veigar, o Yordle Supremo.",
+      "progress": "0/1"
+    },
+    "mission_two": {
+      "text": "empty",
+      "progress": "0/0"
+    }
+  },
+  {
+    "title": "Desafio: mestre estrategista",
+    "mission_one": {
+      "text": "Use uma Coroa do Estrategista para colocar em campo uma unidade extra.",
+      "progress": "0/1"
+    },
+    "mission_two": {
+      "text": "empty",
+      "progress": "0/0"
+    }
+  },
+  {
+    "title": "Desafio: obra-prima",
+    "mission_one": {
+      "text": "Faça com que seus Inovadores construam o poderoso Dragão Mecânico.",
+      "progress": "0/1"
+    },
+    "mission_two": {
+      "text": "empty",
+      "progress": "0/0"
+    }
+  },
+  {
+    "title": "Essa cidade não é grande o suficiente",
+    "mission_one": {
+      "text": "Coloque em campo 10 unidades ou mais.",
+      "progress": "0/1"
+    },
+    "mission_two": {
+      "text": "Coloque em campo um Colosso 3 Estrelas.",
+      "progress": "0/1"
+    }
+  },
+  {
+    "title": "Mostre seu trabalho",
+    "mission_one": {
+      "text": "Coloque em campo qualquer Inovação dos Inovadores.",
+      "progress": "0/1"
+    },
+    "mission_two": {
+      "text": "empty",
+      "progress": "0/0"
+    }
+  },
+  {
+    "title": "Nós construímos esta cidade",
+    "mission_one": {
+      "text": "Vença uma rodada com Jayce e Viktor em campo.",
+      "progress": "0/1"
+    },
+    "mission_two": {
+      "text": "Coloque em campo um Campeão Hextec equipado com a Pistola Laminar Hextec e a característica Hextec ativa.",
+      "progress": "0/1"
+    }
+  },
+  {
+    "title": "O monstro que você criou",
+    "mission_one": {
+      "text": "Coloque em campo uma Jinx 2 Estrelas.",
+      "progress": "0/1"
+    },
+    "mission_two": {
+      "text": "Coloque em campo uma Vi 2 Estrelas ou um Silco 2 Estrelas.",
+      "progress": "0/1"
+    }
+  },
+  {
+    "title": "Sala VIP",
+    "mission_one": {
+      "text": "Gaste 1.000 de ouro.",
+      "progress": "0/1000"
+    },
+    "mission_two": {
+      "text": "Conceda a uma unidade o efeito holofote de Soclalite (5).",
+      "progress": "0/1"
+    }
+  },
+  {
+    "title": "Testes experimentais",
+    "mission_one": {
+      "text": "Construa Limiar da Noite (Espada G. p. C. + Cota de Malha) 4 vezes.",
+      "progress": "0/4"
+    },
+    "mission_two": {
+      "text": "empty",
+      "progress": "0/0"
+    }
+  },
+  {
+    "title": "Viva rápido",
+    "mission_one": {
+      "text": "Faça Zeri avançar 100 vezes.",
+      "progress": "0/100"
+    },
+    "mission_two": {
+      "text": "Alcance o Nível 8 antes do Estágio 4-5 em uma partida normal -ou- Fique em 14 lugar em uma partida de Batalha Frenética.",
+      "progress": "0/1"
+    }
+  }
+]
